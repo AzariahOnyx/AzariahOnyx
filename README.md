@@ -22,7 +22,7 @@ I fix that at the source: taxonomy, chunking strategy, metadata, and retrieval-o
 
 | Repo | What it is | Stack |
 |------|-----------|-------|
-| [rag-doc-assistant](https://github.com/AzariahOnyx/rag-doc-assistant) | RAG pipeline over Contentstack Personalize docs. Tests how documentation IA decisions affect retrieval quality. Live on HuggingFace Spaces. | Groq · LLaMA3 · ChromaDB · Gradio |
+| [tamil-history-rag](https://github.com/AzariahOnyx/tamil-history-rag) | Scholarly RAG system over 5,000+ years of Tamil and Tamil Nadu history. Tests how documentation IA decisions affect retrieval quality. Live on Streamlit. | TF-IDF · Groq · LLaMA3 · Streamlit |
 | [advanced-modules](https://github.com/AzariahOnyx/advanced-modules) | Advanced AI concept demos — Agentic AI with live ReAct loop, MCP, Reasoning models, Agentic RAG. Each module pairs with a Karpathy fundamentals module. | Claude API · Vanilla JS · Live APIs |
 | [training-modules](https://github.com/AzariahOnyx/training-modules) | Interactive explainers built while working through Karpathy's Neural Networks: Zero to Hero. Backprop, MLP, embeddings — all hands-on. | Vanilla JS · HTML · Canvas |
 | [api-playground](https://github.com/AzariahOnyx/api-playground) | Live API explorer for NASA APOD and Open-Meteo. Syntax-highlighted JSON, visual previews, zero dependencies. | Vanilla JS · REST APIs |

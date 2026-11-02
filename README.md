@@ -40,3 +40,29 @@ My current focus is making the documentation lifecycle more reliable and useful:
 - Portfolio: https://azariahonyx.github.io
 - LinkedIn: https://linkedin.com/in/onyx-aj
 - Email: onyxajr@gmail.com
+
+## Featured case studies
+
+### DocForge Skills — Source-grounded documentation workflow
+A reusable Agent Skills workflow that takes approved specifications through source analysis, evidence handover, drafting, claim coverage, source-first proofreading, and human approval. Includes feature-guide, how-to, and release-note profiles, Python validators, regression tests, and GitHub Actions checks.
+
+- [Repository](https://github.com/AzariahOnyx/docforge-skills)
+- [Case study](https://github.com/AzariahOnyx/docforge-skills/blob/main/CASE-STUDY.md)
+- [Generated example](https://github.com/AzariahOnyx/docforge-skills/tree/main/output/quiet-hours-v2-live)
+
+### EMETIVRA — Knowledge Intelligence Studio
+A local-first Markdown documentation audit and keyword-retrieval benchmarking app. Compares fixed and heading-aware chunking with BM25, supports manually judged relevance datasets, and reports P@3, Recall@3, Hit@3, MRR@3, and nDCG@3 with JSON/Markdown/CSV exports. It is lexical retrieval, not semantic or LLM-based RAG; the included v1.1 benchmark is synthetic and illustrative.
+
+- [Live app](https://emetivra.vercel.app)
+- [Repository](https://github.com/AzariahOnyx/emetivra)
+- [Benchmark method and limitations](https://github.com/AzariahOnyx/emetivra/blob/main/benchmarks/v1.1/CASE_STUDY.md)
+
+## Technical writing references
+
+The following public product documentation areas are relevant to my experience. They are reference destinations, not a claim that every linked page was personally authored by me.
+
+- [Directory and Resource Administrator](https://www.microfocus.com/documentation/directory-and-resource-administrator/10.2/)
+- [Sentinel](https://docs.microfocus.com/doc/SELM/24.4/c1_b122o79f)
+- [Contentstack Personalize](https://www.contentstack.com/docs/personalize)
+- [Contentstack Lytics](https://www.contentstack.com/docs/lytics)
+

@@ -1,60 +1,42 @@
 # Azariah Onyx
 
-**Information Architect → Gen AI Solutions Architect** · Bengaluru, India
+**Senior Technical Writer · AI Documentation Engineer · Information Architect**  
+India · [Portfolio](https://azariahonyx.github.io) · [LinkedIn](https://linkedin.com/in/onyx-aj)
 
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-E05A5A?style=flat-square&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square&logoColor=white)
-![Knowledge Systems](https://img.shields.io/badge/Knowledge_Systems-0F9D77?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I bring together enterprise technical communication, information architecture, and practical AI engineering. Across eight years in software documentation, I have worked on enterprise SaaS products, APIs, security software, developer experiences, and documentation systems.
 
----
+My current focus is making the documentation lifecycle more reliable and useful: from understanding product changes and structuring source knowledge to authoring, review, publishing, and retrieval.
 
-I make AI systems smarter by making documentation machine-readable.
+## What I work on
 
-Most RAG pipelines fail not because of the model — but because the docs going in are poorly structured.
-I fix that at the source: taxonomy, chunking strategy, metadata, and retrieval-optimised content models.
+- **Enterprise documentation:** user and administrator guides, API and SDK documentation, release notes, troubleshooting, and developer onboarding.
+- **Information architecture:** content models, taxonomy, navigation, terminology, structured authoring, and documentation governance.
+- **AI-enabled documentation:** RAG, retrieval-oriented content design, MCP tools, AI-assisted analysis, documentation quality checks, and workflow automation.
+- **Docs as code:** Markdown, HTML, XML/DITA, Git, GitHub workflows, and collaboration with engineering teams.
 
----
+## Selected projects
 
-## Projects
+| Project | What it explores | Repository |
+|---|---|---|
+| DocForge Skills | Reusable workflows for documentation impact analysis, drafting, review, and source-based verification. | [docforge-skills](https://github.com/AzariahOnyx/docforge-skills) |
+| Emetivra | RAG-oriented knowledge and retrieval experimentation. | [emetivra](https://github.com/AzariahOnyx/emetivra) |
+| RAG Doc Assistant | An assistant concept for working with documentation through retrieval. | [rag-doc-assistant](https://github.com/AzariahOnyx/rag-doc-assistant) |
+| Tamil History RAG | A domain-specific retrieval project exploring how source structure and knowledge organization affect answers. | [tamil-history-rag](https://github.com/AzariahOnyx/tamil-history-rag) |
+| Advanced Modules | Interactive demonstrations of agentic AI, MCP, reasoning, and RAG concepts. | [advanced-modules](https://github.com/AzariahOnyx/advanced-modules) |
+| Training Modules | Hands-on explainers for neural-network fundamentals and related concepts. | [training-modules](https://github.com/AzariahOnyx/training-modules) |
 
-| Repo | What it is | Stack |
-|------|-----------|-------|
-| [tamil-history-rag](https://github.com/AzariahOnyx/tamil-history-rag) | Scholarly RAG system over 5,000+ years of Tamil and Tamil Nadu history. Tests how documentation IA decisions affect retrieval quality. Live on Streamlit. | TF-IDF · Groq · LLaMA3 · Streamlit |
-| [advanced-modules](https://github.com/AzariahOnyx/advanced-modules) | Advanced AI concept demos — Agentic AI with live ReAct loop, MCP, Reasoning models, Agentic RAG. Each module pairs with a Karpathy fundamentals module. | Claude API · Vanilla JS · Live APIs |
-| [training-modules](https://github.com/AzariahOnyx/training-modules) | Interactive explainers built while working through Karpathy's Neural Networks: Zero to Hero. Backprop, MLP, embeddings — all hands-on. | Vanilla JS · HTML · Canvas |
-| [api-playground](https://github.com/AzariahOnyx/api-playground) | Live API explorer for NASA APOD and Open-Meteo. Syntax-highlighted JSON, visual previews, zero dependencies. | Vanilla JS · REST APIs |
+## Experience
 
----
+- **Contentstack** — Senior Technical Content Writer / Information Architecture and documentation work (Mar 2025–Sep 2026)
+- **OpenText** — Technical Writer II (Dec 2022–Mar 2025)
+- **Sonovision Aetos / Ortec** — Technical Writer (Sep 2018–Dec 2022)
 
-## Current focus — 90-day sprint
+## Tools and technologies
 
-- `Month 1` ✅ — RAG pipeline live · Karpathy EP1–3 · Agentic AI · LinkedIn presence built
-- `Month 2` — Fine-tune a small LLM · Bridge role applications · HuggingFace deployment
-- `Month 3` — Gen AI Solutions Architect roles — NVIDIA · AWS · Databricks · Cohere
+`Oxygen XML` · `DITA` · `MadCap Flare` · `FrameMaker` · `Markdown` · `HTML` · `XML` · `JSON` · `Git` · `GitHub` · `Perforce` · `SVN` · `Python` · `JavaScript` · `REST APIs` · `RAG` · `MCP` · `ChromaDB` · `Contentstack`
 
----
+## Let's connect
 
-## Tech stack
-
-`Python` `JavaScript` `Claude API` `LangChain` `ChromaDB` `Groq` `LLaMA3` `HuggingFace` `REST APIs` `DITA XML` `Contentstack` `Git`
-
----
-
-## Background
-
-- Information Architect at **Contentstack** (2025–present)
-- Technical Writer II at **OpenText** (2022–2025)
-- Senior Technical Writer at **Sonovision Aetos** (2018–2022)
-
-7+ years building documentation systems for enterprise SaaS, APIs, and AI products.
-
----
-
-## Writing publicly about
-
-Why most documentation fails AI · RAG pipeline architecture · LLM hallucination as a docs problem · Information architecture for machine readers
-
-Weekly on LinkedIn → [linkedin.com/in/onyx-aj](https://linkedin.com/in/onyx-aj) · Portfolio → [azariahonyx.github.io](https://azariahonyx.github.io)
+- Portfolio: https://azariahonyx.github.io
+- LinkedIn: https://linkedin.com/in/onyx-aj
+- Email: onyxajr@gmail.com
